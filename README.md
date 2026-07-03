@@ -3,7 +3,7 @@
 
 
 ## Dataset used
--	<a href="https://github.com/saurabhtiwari-ctr/Superstore-Data-Analysis-Dashboards/blob/main/Superstore.csv"> Superstore-Sales Data</a>
+-	<a href="https://github.com/saurabhtiwari-ctr/Superstore-Data-Analysis-Dashboards/blob/main/Superstore.xlsx"> Superstore-Sales Data</a>
 
 ## Project in Python file
 -	<a href="https://github.com/saurabhtiwari-ctr/Superstore-Data-Analysis-Dashboards/blob/main/Superstore%20Sales%20using%20Python%20Project.ipynb"> Python Project File </a>
@@ -12,7 +12,7 @@
 
 -
 
--	Dashboard Interaction <a href="https://github.com/saurabhtiwari-ctr/Superstore-Data-Analysis-Dashboards/blob/main/Superstore%20Sales%20project%20using%20Python.pptx"  >View Dashboard</a>
+-	Dashboard Interaction <a href="https://github.com/saurabhtiwari-ctr/Superstore-Data-Analysis-Dashboards/blob/main/Superstore%20Sales%20project%20using%20Python.pdf"  >View Dashboard</a>
 
 ## Process
 
