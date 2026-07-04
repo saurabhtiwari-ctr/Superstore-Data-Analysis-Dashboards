@@ -1,7 +1,6 @@
 # Superstore-Sales-Data-Analysis (Interactive Dashboard creation using Python)
 ## Project Objective
-
-
+This project focus on Superstore sales and aims to provide insights into various aspect of Sales, Profit, Discount, and Quantity. So that , in future we can prevent the losses and improve all various aspect.
 ## Dataset used
 -	<a href="https://github.com/saurabhtiwari-ctr/Superstore-Data-Analysis-Dashboards/blob/main/Superstore.xlsx"> Superstore-Sales Data</a>
 
