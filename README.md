@@ -46,5 +46,8 @@
 -	Office supplies category  have maximum quantity (22500).
 -	Maximum sales and profit are in west region.
 
+## Final Conclusion
+Standard class of ship mode, Phone of Sub-category, and Technology in category have maximum sales. West region, copiers in sub-category, and technology have maximum profit.
+Maximum loss in table of sub-category. Binders in sub-category, and office supplies have maximum quantity. West region have maximum sales and profit.
 
 
